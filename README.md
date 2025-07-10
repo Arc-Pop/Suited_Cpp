@@ -1,4 +1,5 @@
 History:
+
 Suited is a playing card game which was inspired by classic RPG video games where 3 member parties battle each other in turn based combat.
 
 I created the Suited card game several years ago when I was involved in a table top game group which led me to think about how to make a game that was more accessible than the ones we were playing which often involved many trading cards, models, or other game components.
@@ -11,6 +12,7 @@ This game is primarily played by running the program in an IDE but the end goal 
 
 
 How to Play Suited:
+
 Suited can be played with 2 to 4 players but this implemention is limited to either 2 players against each other of 1 vs computer.
 The game is played by first selecting one of the four suits of cards, spades, clubs, hearts, or diamonds. Gather all the cards of that suit into your hand. Place the king, queen, and jack in front of you facing up. This is your party each of who you can choose to attack with or use their special ability.
 
