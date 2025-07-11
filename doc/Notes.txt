@@ -1,0 +1,8 @@
+Suited
+
+This program is based on a card game created by Jonathan Arc called Suited.
+This file contains notes about the software development of a version of this game in C++ that prints out in a terminal.
+
+VS Code was used as the IDE for writing this game.
+
+To run the definition .cpp files, "${workspaceFolder}/lib/*.cpp" was added to the tasks.json file which is used by VS Code.

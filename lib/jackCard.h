@@ -1,11 +1,11 @@
-#ifndef JACK_H_
-#define JACK_H_
-#include "Card.h"
+#ifndef JACKCARD_H_
+#define JACKCARD_H_
+#include "card.h"
 
-class Jack : public Card {
+class JackCard : public Card {
 public:
-	Jack();
-	virtual ~Jack();
+	JackCard();
+	virtual ~JackCard();
 	int GetHP();
 	void SetHP(int _HP);
 	void SetCounter(int _counterAttack);

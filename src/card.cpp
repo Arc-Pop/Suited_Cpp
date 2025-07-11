@@ -1,12 +1,12 @@
-#include "Card.h"
+#include "../lib/card.h"
 #include <iostream>
 #include <string>
 #include <fstream>
 #include <cassert>
 #include <vector>
-#include "King.h"
-#include "Queen.h"
-#include "Jack.h"
+#include "../lib/kingCard.h"
+#include "../lib/queenCard.h"
+#include "../lib/jackCard.h"
 #include <chrono>
 
 

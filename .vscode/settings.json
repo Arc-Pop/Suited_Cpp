@@ -3,6 +3,9 @@
         "iostream": "cpp",
         "iosfwd": "cpp",
         "ostream": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "fstream": "cpp",
+        "string": "cpp",
+        "cstdlib": "cpp"
     }
 }

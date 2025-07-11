@@ -1,8 +1,8 @@
 
-#include "King.h"
+#include "../lib/kingCard.h"
 
 
-King::King() {
+KingCard::KingCard() {
 
 	switch(gameTime){
 		case 1: {HP = 45; break;}
@@ -15,11 +15,11 @@ King::King() {
 
 }
 
-int King::GetHP(){return HP;}
+int KingCard::GetHP(){return HP;}
 
-void King::SetHP(int _HP){HP = _HP;};
+void KingCard::SetHP(int _HP){HP = _HP;};
 
-King::~King() {
+KingCard::~KingCard() {
 	// TODO Auto-generated destructor stub
 }
 
